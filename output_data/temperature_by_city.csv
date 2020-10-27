@@ -1,0 +1,606 @@
+,City,Temperature,Max Temperature,Wind Speed,Cloudiness
+0,ushuaia,8,8,7.2,40
+1,lavrentiya,-0.99,-0.99,4.1,100
+2,east london,20,20,2.1,0
+3,port elizabeth,17,17,4.1,20
+4,avarua,21,21,1.5,100
+5,guerrero negro,23.49,23.49,8.68,0
+6,palabuhanratu,Not Found,Not Found,Not Found,Not Found
+7,punta arenas,10.78,11,9.3,40
+8,miles city,3,3,6.2,90
+9,bluff,6.67,6.67,2.52,8
+10,saskylakh,-15.79,-15.79,3.78,100
+11,alofi,21,21,4.1,19
+12,aktas,-1,-1,9,90
+13,hilo,23.61,26,1.5,90
+14,rikitea,24.03,24.03,7.48,100
+15,hobart,8.58,9,1.6,90
+16,grindavik,5,5,12.3,0
+17,severo-kurilsk,6.05,6.05,3.06,16
+18,georgetown,26.33,26.67,2.58,20
+19,tarakan,26.17,26.17,2.45,100
+20,hermanus,17.22,17.22,1.34,100
+21,mareeba,22.63,24,0.5,100
+22,victoria,23.37,25,1.34,53
+23,albany,10.73,11.11,2.06,100
+24,amderma,Not Found,Not Found,Not Found,Not Found
+25,warragul,10.52,11.67,4.02,79
+26,williams lake,0,0,2.6,90
+27,ponta do sol,17.81,20,2.6,40
+28,tongliao,0.87,0.87,3.47,0
+29,pisco,21.14,22,5.7,0
+30,cape town,17.19,18.89,3.6,20
+31,kodiak,6,6,1.5,1
+32,maceio,28,28,7.7,75
+33,cherskiy,-12.58,-12.58,3.42,97
+34,attawapiskat,Not Found,Not Found,Not Found,Not Found
+35,obsharovka,0.46,0.46,0.35,100
+36,kampong thum,24.66,24.66,4.58,100
+37,tabou,25.83,25.83,2.91,77
+38,sao filipe,27.64,27.64,3.88,100
+39,busselton,14.18,15.56,4.37,66
+40,nizhnevartovsk,-6,-6,5,100
+41,nanhai,16.67,16.67,6.16,72
+42,lebu,12.52,12.52,5.52,90
+43,palu,24.08,24.08,1.54,100
+44,touros,29,29,7.2,20
+45,tutoia,28.04,28.04,5.11,100
+46,yellowknife,-8.16,-8,5.7,75
+47,cabedelo,28,28,5.1,40
+48,talnakh,-20.18,-20.18,2.45,0
+49,neuquen,21,21,5.1,0
+50,taolanaro,Not Found,Not Found,Not Found,Not Found
+51,amambai,27.35,27.35,1.84,0
+52,yablonovo,7,7,5,0
+53,olafsvik,4.28,4.28,8.51,100
+54,karabuk,17.27,17.27,0.94,29
+55,salalah,27,27,2.1,20
+56,laurel,16.71,17.22,0.85,90
+57,karakol,5.7,5.7,2.39,100
+58,arraial do cabo,26.86,28,6.2,0
+59,terenos,28,28,1.5,40
+60,airai,16.09,16.09,0.37,25
+61,port alfred,20.38,20.38,1.75,0
+62,biak,25.34,25.34,1.97,100
+63,butaritari,27.29,27.29,2.95,100
+64,mar del plata,19,19,5.1,0
+65,tazovskiy,-19.56,-19.56,3.67,0
+66,atuona,26.19,26.19,9.46,0
+67,barrow,-2,-2,5.7,90
+68,riyaq,Not Found,Not Found,Not Found,Not Found
+69,oyem,21.04,21.04,1.19,63
+70,dikson,-11.43,-11.43,7.65,99
+71,bengkulu,24.25,24.25,2.15,94
+72,saldanha,17,17,3.6,100
+73,nanortalik,-0.6,-0.6,1.77,100
+74,nanakuli,23.32,24,1.5,75
+75,chitungwiza,22.22,22.22,2.24,0
+76,farafangana,22.94,22.94,2.64,16
+77,kamenka,2.78,2.78,5.15,100
+78,vizinga,1.77,1.77,4.01,100
+79,mataura,6.67,6.67,0.74,18
+80,esperance,12,12,2.6,75
+81,misratah,21.04,21.04,9.53,34
+82,makakilo city,23.4,24,1.5,75
+83,praia da vitoria,18.71,19,4.24,75
+84,puerto ayora,22.88,24,6.7,75
+85,nome,-2.1,-1,1.49,90
+86,hithadhoo,28.71,28.71,4.01,81
+87,port hedland,22,22,2.1,75
+88,aklavik,-13,-13,2.07,40
+89,velyka pysarivka,10.2,10.2,4.95,75
+90,samusu,Not Found,Not Found,Not Found,Not Found
+91,nikolskoye,11.59,12,3,75
+92,kaitangata,6,6,0.95,12
+93,tete,34,34,5.1,0
+94,cidreira,19.94,19.94,5.79,86
+95,saint george,10.73,12.22,2.1,1
+96,shimoda,11.67,11.67,0.45,2
+97,grand gaube,21.67,21.67,0.45,0
+98,hualmay,20.71,20.71,4.32,100
+99,ballina,16.9,17,2.6,90
+100,barentsburg,Not Found,Not Found,Not Found,Not Found
+101,new norfolk,7.43,8.33,0.84,85
+102,kawana waters,Not Found,Not Found,Not Found,Not Found
+103,tasiilaq,1,1,5.1,75
+104,nuqui,27.51,27.51,4.44,100
+105,vryburg,26.15,26.15,3.64,7
+106,kaputa,25.27,25.27,1.39,69
+107,adre,27.66,27.66,2.58,0
+108,lafia,26.32,26.32,0.59,0
+109,rorvik,5,5,2.1,0
+110,evenskjaer,Not Found,Not Found,Not Found,Not Found
+111,louis trichardt,21.32,21.32,2.05,0
+112,mayumba,25.61,25.61,3.14,100
+113,lukiv,10.56,10.56,4.47,0
+114,parsabad,14,14,3.1,0
+115,petropavlovskoye,7.97,7.97,9.03,96
+116,longyearbyen,0,0,5.1,75
+117,cabra,13.12,15,1,0
+118,vaitupu,Not Found,Not Found,Not Found,Not Found
+119,zhezkazgan,-0.3,-0.3,7.01,98
+120,jumla,6.61,6.61,2.09,0
+121,pizarro,26.99,26.99,4.55,100
+122,boyolangu,23.95,23.95,1.48,98
+123,bethel,13.44,14,3.1,1
+124,tsihombe,Not Found,Not Found,Not Found,Not Found
+125,thompson,-3,-3,2.1,75
+126,asau,10.56,10.56,0.71,0
+127,yaan,26.43,26.43,1.66,0
+128,vaini,21,21,2.6,75
+129,havelock,23.25,24.44,0.39,1
+130,beloha,21.52,21.52,6.16,1
+131,kralendijk,32,32,5.7,56
+132,igarape,33,33,3.1,75
+133,pahrump,16.29,17.22,1.79,0
+134,waitati,10,10,4.02,0
+135,mount gambier,7,7,2.53,40
+136,umm lajj,28.25,28.25,2.46,0
+137,luderitz,15.3,15.3,4.98,74
+138,pangnirtung,-10,-10,3.1,40
+139,port hueneme,23.97,26,3.6,1
+140,dingle,24.49,24.49,1.88,89
+141,bangassou,21.53,21.53,0.65,100
+142,khatanga,-16.83,-16.83,5.79,99
+143,cockburn town,30,30,6.7,40
+144,dalvik,3,3,2.1,90
+145,kahului,25.04,27,0.69,20
+146,maki,8.93,10,2.28,98
+147,cairns,23.66,24,0.5,98
+148,portmore,30.56,31,1,20
+149,jamestown,7.85,8.33,3.6,90
+150,port macquarie,13.89,13.89,3.14,96
+151,hay river,-5,-5,5.7,75
+152,namatanai,26.05,26.05,0.95,44
+153,padang,25.18,25.18,1.76,93
+154,lorengau,26.88,26.88,0.62,100
+155,pa sang,22.11,22.22,0.52,20
+156,chuy,16.77,16.77,6.91,100
+157,vostok,-1.2,-1.2,1.54,100
+158,nemuro,9.79,9.79,1.26,100
+159,nsoko,22.47,22.47,2.04,90
+160,huilong,18.17,18.33,3.81,92
+161,nioro,29.59,29.59,1.13,0
+162,qaanaaq,-12.5,-12.5,5.91,84
+163,nizhneyansk,Not Found,Not Found,Not Found,Not Found
+164,cayenne,32,32,5.7,20
+165,vila franca do campo,18,18,3.6,75
+166,ilebo,22.59,22.59,1.34,100
+167,dunedin,10,10,4.02,0
+168,svetlaya,4.8,4.8,2.23,14
+169,walvis bay,15.54,16,2.6,0
+170,oudtshoorn,17,17,5.7,40
+171,chik,5,5,1,90
+172,strezhevoy,-6,-6,5,100
+173,souillac,21.67,21.67,0.45,16
+174,iquique,20,20,7.2,0
+175,sibolga,24.6,24.6,1.31,62
+176,jiddah,Not Found,Not Found,Not Found,Not Found
+177,raudeberg,8.33,8.33,3.29,81
+178,buzdyak,-1.89,-1.89,2.29,0
+179,katsuura,15.78,16,3.6,40
+180,tuktoyaktuk,-12,-12,5.1,90
+181,puerto narino,35,35,1.34,92
+182,pevek,-5.78,-5.78,7.75,100
+183,bud,8.42,8.89,1.45,90
+184,naze,19,19,1,75
+185,hobyo,26.61,26.61,4.56,11
+186,namangan,10,10,3.1,26
+187,fortuna,17.9,18,2.73,1
+188,tulun,-1.57,-1.57,2.34,48
+189,halifax,7.87,8.33,5.1,90
+190,york,14.61,15.56,3.1,90
+191,kapaa,23.5,25,2.6,90
+192,sao geraldo do araguaia,31.75,31.75,1.07,100
+193,mys shmidta,Not Found,Not Found,Not Found,Not Found
+194,hailey,3,3,4.6,20
+195,bhuj,25.68,25.68,2.2,0
+196,gigmoto,26.14,26.14,0.78,18
+197,sofiysk,Not Found,Not Found,Not Found,Not Found
+198,leningradskiy,-7.72,-7.72,8.59,0
+199,upernavik,-8.08,-8.08,2.64,0
+200,novoagansk,-9.06,-9.06,6.29,12
+201,margate,11.89,12.22,1.34,36
+202,lokosovo,-8.62,-8.62,5.72,0
+203,mogadishu,26.99,26.99,5.24,56
+204,bur gabo,Not Found,Not Found,Not Found,Not Found
+205,placido de castro,26.3,26.3,0.55,100
+206,manuk mangkaw,28.71,28.71,5.54,92
+207,mahebourg,21.67,21.67,0.45,3
+208,inhumas,30.74,32,5.1,40
+209,gannavaram,23.61,23.61,0.73,99
+210,illoqqortoormiut,Not Found,Not Found,Not Found,Not Found
+211,karaul,Not Found,Not Found,Not Found,Not Found
+212,olyka,10.56,10.56,4.47,0
+213,kieta,25.85,25.85,1.26,0
+214,smithers,2,2,2.1,75
+215,dhidhdhoo,28.08,28.08,2.92,52
+216,louisbourg,Not Found,Not Found,Not Found,Not Found
+217,panjakent,12,12,3.1,83
+218,wittmund,10.67,11.67,5.1,75
+219,bambanglipuro,24.72,24.72,1.77,94
+220,nantucket,13.17,14,6.7,1
+221,lata,15.2,16.11,0.89,100
+222,fairbanks,-3.76,-3,2.1,90
+223,belushya guba,Not Found,Not Found,Not Found,Not Found
+224,anadyr,-12,-12,2,20
+225,bartica,31,31,5.1,75
+226,saint-philippe,18.49,23,2.1,75
+227,gat,24.37,25.56,0.45,0
+228,san cristobal,26.05,26.05,0.44,89
+229,torbay,6,6,3.1,90
+230,palmeira das missoes,22.84,22.84,4.17,0
+231,narsaq,0,0,1,75
+232,zinder,30,30,3.25,0
+233,bredasdorp,18,18,2.6,100
+234,liling,18,18,2,0
+235,nador,17,17,4.6,0
+236,provideniya,-1.68,-1.68,2.02,97
+237,porbandar,26.96,26.96,4.05,0
+238,hasaki,11.04,12.22,3.1,20
+239,meyungs,Not Found,Not Found,Not Found,Not Found
+240,ilulissat,-7,-7,1,75
+241,hsinchu,24.35,25,1.79,78
+242,coquimbo,16,16,5.1,20
+243,playa del carmen,29,29,4.1,90
+244,panguipulli,12,12,5.1,75
+245,ayan,1.45,1.45,3.96,95
+246,general roca,21,21,5.1,0
+247,carnarvon,20,20,9.3,0
+248,hambantota,26.23,26.23,4.37,86
+249,straumen,5.97,7.22,4.6,75
+250,panguna,20.02,20.02,0.52,0
+251,iqaluit,-10,-10,2.6,40
+252,san luis,27.83,27.83,2.81,0
+253,la paz,19,19,4.1,40
+254,surenavan,15,15,3.1,100
+255,carupano,29.12,29.12,5.69,17
+256,calarasi,12.85,13,1.17,90
+257,dudinka,-20.22,-20.22,2.72,0
+258,lolua,Not Found,Not Found,Not Found,Not Found
+259,los banos,26.73,27.22,1,20
+260,kamenskoye,Not Found,Not Found,Not Found,Not Found
+261,cabo san lucas,27.46,28.89,3.1,5
+262,french harbor,30,30,3.44,75
+263,igarka,-19,-19,2.95,0
+264,ahipara,15.96,15.96,1.34,78
+265,aketi,22.67,22.67,0.58,57
+266,paka,25.83,25.83,1.3,100
+267,el mahalla el kubra,Not Found,Not Found,Not Found,Not Found
+268,tezu,21.97,21.97,1.57,3
+269,panalingaan,26.26,26.26,3.43,100
+270,isfana,12,12,12,75
+271,vestmannaeyjar,5.5,5.5,16.03,31
+272,ust-nera,-14.32,-14.32,1.03,80
+273,chara,-17.58,-17.58,0.17,5
+274,severnoye,0.16,0.16,1.12,76
+275,mahanoro,21.77,21.77,1.88,72
+276,sorland,8,8,4.6,75
+277,port-de-paix,Not Found,Not Found,Not Found,Not Found
+278,nabire,24.38,24.38,1.59,100
+279,kruisfontein,16.67,16.67,0.45,0
+280,port-cartier,1.35,1.67,4.1,40
+281,bambous virieux,21.67,21.67,0.45,0
+282,mehran,13,13,2.1,0
+283,castro,25.22,25.22,3.4,0
+284,sala consilina,11.34,12.78,0.89,100
+285,cap-aux-meules,5,5,12.9,90
+286,beringovskiy,-2.66,-2.66,5.26,94
+287,duz,Not Found,Not Found,Not Found,Not Found
+288,inskoy,5.45,5.45,4.06,100
+289,kushima,16.52,16.52,1.7,0
+290,byron bay,16.4,17,2.6,90
+291,grand river south east,Not Found,Not Found,Not Found,Not Found
+292,mbabane,17.1,17.1,2.51,84
+293,zyryanovsk,5.87,5.87,0.44,100
+294,tiksi,-17.53,-17.53,4.04,56
+295,gunib,11.33,11.33,1.19,0
+296,ko samui,27.94,27.94,6.11,100
+297,cartagena,30.1,30.1,2.16,12
+298,sentyabrskiy,Not Found,Not Found,Not Found,Not Found
+299,wajid,25.93,25.93,7.14,25
+300,kiunga,21.6,21.6,0.5,100
+301,bandarbeyla,24.55,24.55,4.84,19
+302,rungata,Not Found,Not Found,Not Found,Not Found
+303,ust-kan,2.05,2.05,3.23,13
+304,high level,-1,-1,1,90
+305,sug-aksy,Not Found,Not Found,Not Found,Not Found
+306,susanville,9,9,1.5,1
+307,vitry-le-francois,10.32,11,6.7,90
+308,sao gabriel da cachoeira,34.55,34.55,0.59,99
+309,taunggyi,15.25,15.25,0.48,0
+310,mogadouro,10.56,10.56,1.79,96
+311,vallenar,26.65,26.65,4.57,0
+312,sambava,23.25,23.25,2.1,6
+313,bubaque,28.68,28.68,4.8,6
+314,abu kamal,21.51,21.51,3,0
+315,manicore,26.76,26.76,0.43,99
+316,naklo nad notecia,10.19,10.56,3.6,0
+317,darovskoy,-0.38,-0.38,3.44,87
+318,codrington,8.32,8.32,2.43,67
+319,terrace,10,10,1.24,90
+320,seoul,12.08,15,1.8,75
+321,singkang,25.78,26,0.5,20
+322,passo fundo,21.54,21.54,5.19,2
+323,harper,25.57,25.57,3.4,98
+324,novo oriente,36.42,36.42,1.14,97
+325,husavik,3,3,2.1,90
+326,constitucion,13.94,13.94,4,24
+327,bathsheba,31,31,9.8,40
+328,svetlogorsk,8.8,8.8,3.18,24
+329,sisimiut,-6.71,-6.71,3.41,0
+330,nouadhibou,31,31,8.2,100
+331,ciudad real,11.54,12.22,2.66,80
+332,faanui,26.64,26.64,8.11,100
+333,kavieng,27.69,27.69,1.04,100
+334,saint-francois,13,13,2.6,90
+335,skibbereen,7,7,6.7,20
+336,dzerzhinskoye,2.17,2.17,2.89,100
+337,bolshiye uki,Not Found,Not Found,Not Found,Not Found
+338,clyde river,-10,-10,3.1,75
+339,victor harbor,9.24,11.11,1.05,0
+340,axim,25.78,25.78,4.5,100
+341,port-gentil,27,27,4.6,75
+342,fairlie,6.67,6.67,8.07,100
+343,vysokogornyy,-2.7,-2.7,1.02,100
+344,urumqi,12,12,7,0
+345,leogane,34,34,3.1,20
+346,sao sepe,23,23,3.6,40
+347,muros,14.7,15,1.34,100
+348,the valley,28.06,29,3.6,75
+349,moron,23.04,24.44,3.1,0
+350,oktyabrskiy,-1.69,-1.69,1,0
+351,wajir,29.54,29.54,8.01,92
+352,sterling,16.56,17.78,0.6,90
+353,sao joao da barra,30,30,6.2,20
+354,krasnoselkup,-18.37,-18.37,5.72,0
+355,portland,9.35,11.11,0.6,0
+356,sitka,7,7,2.1,90
+357,boshnyakovo,2.17,2.17,1.99,0
+358,tabiauea,Not Found,Not Found,Not Found,Not Found
+359,san patricio,15.66,17,6.7,90
+360,haines junction,-0.77,-0.77,1.31,22
+361,tandil,21.95,22.22,1.34,0
+362,doctor pedro p. pena,Not Found,Not Found,Not Found,Not Found
+363,hamilton,11.29,12.22,1.38,90
+364,mezen,3.05,3.05,4.33,100
+365,norman wells,-7,-7,5.1,75
+366,katsiveli,Not Found,Not Found,Not Found,Not Found
+367,zhigansk,-21.53,-21.53,0.47,83
+368,pangai,24,24,6.2,20
+369,washington,3.24,4.44,1.8,1
+370,ribeira grande,18,18,1,40
+371,lompoc,19.84,20.56,2.1,1
+372,tual,28.39,28.39,4.06,100
+373,akdepe,3.01,4,3.1,0
+374,miram shah,15.77,15.77,1.45,0
+375,weligama,25.28,25.28,2.67,95
+376,saint cloud,-1.84,0,7.2,1
+377,rio grande,15.56,15.56,2.24,100
+378,chicama,19,19,5.1,20
+379,novorossiysk,15.78,16,8,0
+380,wentzville,3.71,3.89,0.89,99
+381,kletnya,7.76,7.76,3.76,1
+382,nosy varika,22.17,22.17,2.2,42
+383,belaya gora,-11.79,-11.79,2.03,100
+384,tuatapere,6.67,6.67,1.56,22
+385,nampa,9.13,10.56,2.1,1
+386,karaton,25.39,26.67,2.1,40
+387,emerald,18,18,3.12,0
+388,toliary,Not Found,Not Found,Not Found,Not Found
+389,banff,0.94,0.94,3.59,100
+390,havre-saint-pierre,2,2,3.6,90
+391,ojitlan,Not Found,Not Found,Not Found,Not Found
+392,nexo,11,11,10.3,64
+393,huambo,22.33,22.33,1.98,53
+394,vila,12.78,12.78,3.13,100
+395,ouadda,22.99,22.99,1.53,87
+396,khonuu,Not Found,Not Found,Not Found,Not Found
+397,saint austell,9.77,11,7.7,34
+398,longlac,Not Found,Not Found,Not Found,Not Found
+399,mineiros,28.98,28.98,3.13,100
+400,siderno,10.08,16,5.1,40
+401,baruun-urt,-3.09,-3.09,2.74,0
+402,binzhou,11.34,11.34,1.67,100
+403,luwuk,25.53,25.53,1.44,100
+404,pacific grove,19.51,20.56,2.21,1
+405,marawi,23.89,23.89,2.68,100
+406,lagoa,17.2,17.2,5.2,100
+407,tasbuget,Not Found,Not Found,Not Found,Not Found
+408,moose factory,1,1,6.2,90
+409,mazagao,35,35,6.7,40
+410,thayetmyo,23.98,23.98,0.17,14
+411,wattegama,24.52,24.52,0.94,100
+412,bonavista,4.44,4.44,3.58,100
+413,klaksvik,6,6,6.2,76
+414,savannah bight,28.26,28.26,3.18,0
+415,kutum,26.16,26.16,3.14,0
+416,lalsk,2.25,2.25,4.23,100
+417,aksarayskiy,5,5,5,0
+418,mecca,25.98,25.98,1.9,0
+419,mumford,25.97,25.97,3.5,20
+420,kidal,29.47,29.47,4.73,0
+421,nelson bay,14.07,14.44,2.6,90
+422,boli,1.1,1.1,2.41,0
+423,kirakira,26.16,26.16,3.1,81
+424,chapais,-3,-3,5.1,75
+425,karratha,19.29,19.29,0.55,88
+426,kabarnet,16.34,16.34,1.55,100
+427,umm kaddadah,31.13,31.13,6.42,0
+428,key largo,28.91,29.44,4.02,30
+429,quelimane,26,26,5.1,40
+430,wanning,25.07,25.07,10.69,100
+431,bertoua,20.82,20.82,1.38,100
+432,namibe,21.21,21.21,3.36,85
+433,bairiki,25,25,0.5,75
+434,yanchukan,Not Found,Not Found,Not Found,Not Found
+435,katra,15.22,15.22,3.86,0
+436,bredene,11.07,11.11,7.7,75
+437,sayyan,11.02,11.02,1.98,87
+438,canchungo,32.6,33,1,0
+439,tulsipur,17.1,17.1,2.07,0
+440,haukipudas,7.57,8,6.7,90
+441,jiazi,21.75,21.75,7.84,94
+442,vardo,3,3,6.2,75
+443,deputatskiy,-15.71,-15.71,1.47,100
+444,danville,23.61,24.44,1.22,1
+445,curup,19.36,19.36,0.54,100
+446,shingu,12.33,12.33,2.47,0
+447,anchorage,-0.83,0.56,1.9,40
+448,mariental,29.27,29.27,5.81,52
+449,marzuq,18.68,18.68,0.66,99
+450,herat,15,15,4.6,0
+451,tungkang,Not Found,Not Found,Not Found,Not Found
+452,kulunda,1.66,1.66,9.21,20
+453,oyama,13.9,17.22,1.5,40
+454,mayya,-15,-15,3,40
+455,el alto,24,24,7.7,0
+456,akyab,26.44,26.44,2.47,6
+457,mao,14,14,1.5,0
+458,merauke,25.08,25.08,5.53,100
+459,moen,-6.21,-3.89,2.1,0
+460,kungurtug,-2.64,-2.64,1.18,80
+461,jinchengjiang,Not Found,Not Found,Not Found,Not Found
+462,quatre cocos,21.67,21.67,0.45,0
+463,chumikan,3.02,3.02,6.39,100
+464,poum,24.53,24.53,6.03,90
+465,sur,22.44,22.44,1.88,0
+466,richards bay,23.04,23.04,4.81,100
+467,kuching,23.95,24,1.19,40
+468,uyovu,19.55,19.55,1.05,39
+469,kharod,21.54,21.54,0.52,0
+470,buala,26.39,26.39,0.59,5
+471,hellvik,9.17,9.44,5.7,40
+472,villamontes,35,35,2.6,0
+473,westport,15.42,16.11,3.05,100
+474,paraiso,25.64,26,4.6,75
+475,qaqortoq,0,0,1,75
+476,chokurdakh,-11.54,-11.54,0.33,100
+477,roma,6.75,7.22,1.5,90
+478,bilma,23.32,23.32,1.71,0
+479,caravelas,26.53,26.53,3.33,88
+480,kamensk-uralskiy,-6.26,-6.26,4.21,3
+481,cap malheureux,21.67,21.67,0.45,0
+482,waingapu,26.23,26.23,1.68,100
+483,orsha,8.5,8.5,5.67,0
+484,esmeraldas,30.34,33,3.1,75
+485,san vicente,25.96,25.96,1.67,0
+486,primorsko,17.68,18.33,2.6,40
+487,gura sutii,12.07,12.22,3.6,90
+488,santa isabel,31.35,33,6.2,75
+489,arawa,24.94,24.94,1.02,0
+490,port hardy,8,8,6.2,90
+491,meulaboh,24.48,24.48,1.79,64
+492,vanavara,-6.41,-6.41,3.96,100
+493,tolbazy,-3.16,-3,4,0
+494,kaabong,21.27,21.27,4.56,8
+495,sakakah,26,26,5.1,0
+496,sabha,24.4,24.4,4.87,0
+497,kerteh,Not Found,Not Found,Not Found,Not Found
+498,ostrovnoy,5.06,5.06,9.11,100
+499,plastun,5.41,5.41,0.73,89
+500,qui nhon,23.74,23.74,15.08,100
+501,pucallpa,34,34,3.6,40
+502,mata,13.33,13.33,0.89,99
+503,asahikawa,6.09,6.09,0.71,100
+504,kudahuvadhoo,28,28,4.98,2
+505,banjarmasin,24.21,24.21,0.47,100
+506,adrar,32.51,32.51,4.57,0
+507,dovolnoye,3.96,3.96,7.99,100
+508,coihaique,9,9,3.6,75
+509,imeni zhelyabova,7.69,7.69,4.62,74
+510,matir,Not Found,Not Found,Not Found,Not Found
+511,sao felix do xingu,33.32,33.32,2.17,100
+512,labuhan,25.8,25.8,4.16,100
+513,geraldton,16,16,4.1,38
+514,scarborough,8.46,8.89,1.79,100
+515,pokhara,17.39,17.39,2.11,0
+516,bacungan,25,25,2.1,90
+517,nyurba,-11.41,-11.41,1.44,100
+518,comodoro rivadavia,16,16,11.3,40
+519,la plaine,27.41,29,1,40
+520,champerico,31,31,2.1,40
+521,marshfield,-0.15,1.11,5.1,1
+522,synya,-3.77,-3.77,5.29,100
+523,saleaula,Not Found,Not Found,Not Found,Not Found
+524,hami,7.28,7.28,3.45,0
+525,aykhal,-23.48,-23.48,2.18,69
+526,eyl,25.57,25.57,4.36,33
+527,opuwo,23.65,23.65,5.11,91
+528,kribi,26.07,26.07,2.92,100
+529,taoudenni,31.18,31.18,3.89,1
+530,fairfield,14.78,16.11,3.1,1
+531,sankt florian,5.51,6,2.1,20
+532,creetown,10,10,7.7,75
+533,tidore,Not Found,Not Found,Not Found,Not Found
+534,roald,6.52,7,2.86,40
+535,viedma,20.22,20.22,7.7,100
+536,marcona,Not Found,Not Found,Not Found,Not Found
+537,jiuquan,4.32,4.32,2.51,94
+538,hit,20.26,20.26,2.11,0
+539,wuwei,5,5,1.03,17
+540,vila velha,26.76,27.22,5.7,20
+541,hebi,12.36,12.36,0.89,100
+542,mizdah,16.12,16.12,6.55,0
+543,muriwai beach,15,15.56,1.26,100
+544,auki,25.26,25.26,0.95,78
+545,waddan,24.71,24.71,4.73,0
+546,hellin,11.94,12.78,3.1,0
+547,ahuimanu,24.71,26,1.5,20
+548,chifeng,2.51,2.51,2.77,0
+549,kouango,22.88,22.88,1.49,100
+550,nishihara,21.17,23,1.5,20
+551,morristown,22.98,23.33,3.6,1
+552,wazzan,Not Found,Not Found,Not Found,Not Found
+553,chuari khas,15.09,15.09,3.01,0
+554,chumphon,22.31,22.31,1.06,100
+555,isangel,23.8,23.8,6.24,4
+556,abu dhabi,26.57,27,2.1,0
+557,half moon bay,20.66,22,4.6,5
+558,rafsanjan,11.76,11.76,1.91,0
+559,slavonski brod,14.73,15,0.49,0
+560,pemangkat,24.91,24.91,3.6,64
+561,olinda,29,29,6.2,40
+562,hailar,-4.57,-4.57,4.31,0
+563,sedniv,9.02,9.02,3.74,0
+564,labytnangi,-15.79,-15.79,1.16,100
+565,alice springs,14,14,1.92,0
+566,iberia,27.45,28.33,3.1,90
+567,jaque,28.19,28.19,2.07,98
+568,filingue,31.35,31.35,2.6,0
+569,atar,32.72,32.72,5.33,0
+570,kasama,24.01,24.01,2.36,98
+571,balaipungut,24.23,24.23,0.75,100
+572,sairang,21.99,21.99,0.61,0
+573,yeppoon,20,20,2.1,40
+574,songjianghe,-0.93,-0.93,1.92,0
+575,nambucca heads,14.94,16,3.6,90
+576,mana,29.35,29.35,5.1,48
+577,college,-3.61,-2.78,2.07,90
+578,vrangel,9.93,9.93,3.47,7
+579,impfondo,22.85,22.85,0.91,100
+580,okha,2.64,2.64,1.41,96
+581,port lincoln,12.84,12.84,2.27,0
+582,dunmore town,27.96,27.96,4.39,0
+583,luanshya,24.17,24.17,1.76,100
+584,santa eulalia del rio,Not Found,Not Found,Not Found,Not Found
+585,saint-joseph,19.5,23,2.1,75
+586,kamina,19.58,19.58,1.85,88
+587,luau,20.71,20.71,1.13,100
+588,otane,8.89,8.89,0.34,100
+589,sobolevo,7.96,7.96,5.29,0
+590,ruidoso,-7.07,-5.56,2.1,40
+591,zhaotong,8.54,8.54,2.76,100
+592,avera,25.33,27,3.1,1
+593,svetlyy,11.25,12,3,75
+594,grand centre,Not Found,Not Found,Not Found,Not Found
+595,troitskoye,8.25,8.25,5.66,100
+596,chlorakas,22.61,25,2.6,40
+597,kansanshi,20.85,20.85,1.7,17
+598,sinnamary,29.37,29.37,5.26,59
+599,dolbeau,Not Found,Not Found,Not Found,Not Found
+600,san andres,28.92,28.92,6.02,99
+601,pionerskiy,11.22,12,3,75
+602,erenhot,1.77,1.77,2.77,0
+603,altamont,10.52,13.33,0.4,1
+604,uvat,-8.46,-8.46,5.07,99
